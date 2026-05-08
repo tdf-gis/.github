@@ -1,72 +1,36 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Colin%20T.%20Stiles&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=GIS%20Manager%20%2B%20Data%20Scientist%20%7C%20Tennessee%20Division%20of%20Forestry&descAlignY=58&descSize=17"
-    alt="Colin T. Stiles profile banner"
-  />
-</p>
+# GitHub Defaults
 
-<p align="center">
-  <a href="https://github.com/colin-tndof">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tndof-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.tn.gov/agriculture/forests.html">
-    <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
-  </a>
-  <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
-</p>
+This repository centralizes GitHub defaults for repositories under `colin-tndof`.
 
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/282939486?v=4"
-    width="128"
-    height="128"
-    alt="Colin T. Stiles"
-  />
-</p>
+Use it for shared community health files, issue and pull request templates, organization profile content, and reusable workflow templates. Repository-specific files always take precedence over the defaults here.
 
-## Hi, I'm Colin
+## What This Provides
 
-I'm a **GIS Manager and Data Scientist** at the **Tennessee Division of Forestry** in **Chattanooga, Tennessee**.
-
-I work where maps, data, forests, and practical public-service tools meet: turning spatial information into clearer analysis, better workflows, and decisions people can actually use.
-
-## Public Profile
-
-| Field | Details |
+| Path | Purpose |
 | --- | --- |
-| Name | Colin T. Stiles |
-| Role | GIS Manager and Data Scientist |
-| Organization | Tennessee Division of Forestry |
-| Location | Chattanooga, Tennessee |
-| Website | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
-| GitHub | [@colin-tndof](https://github.com/colin-tndof) |
+| [profile/README.md](profile/README.md) | Public organization profile content |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Default contribution guide |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Default participation expectations |
+| [SECURITY.md](SECURITY.md) | Default vulnerability reporting guidance |
+| [SUPPORT.md](SUPPORT.md) | Default support and contact guidance |
+| [GOVERNANCE.md](GOVERNANCE.md) | Default project stewardship notes |
+| [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Default issue forms |
+| [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Default pull request template |
+| [workflow-templates](workflow-templates) | GitHub Actions workflow templates |
 
-## Current Focus
+## How Defaults Work
 
-- Building GIS and data workflows for forestry work across Tennessee.
-- Making spatial data easier to understand, trust, and act on.
-- Connecting field knowledge with clean analysis, useful maps, and reproducible tools.
-- Keeping technical work grounded in real-world decisions, not just dashboards for dashboards' sake.
+GitHub uses these files for repositories that do not define their own versions. If a repository needs different instructions, add the file directly to that repository and GitHub will use the repo-local version.
 
-## Things I Care About
+Good candidates for repo-local overrides:
 
-```text
-geospatial analysis        forest data systems        public-sector technology
-data science workflows     practical automation       clear, useful outputs
-```
+- Project-specific setup steps.
+- Sensitive data handling rules.
+- Deployment or operational procedures.
+- Custom issue labels, owners, or review requirements.
 
-## GitHub Snapshot
+## Profile README Note
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=colin-tndof&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=2F3E46&icon_color=2D6A4F&ring_color=168AAD"
-    alt="Colin's GitHub stats"
-  />
-</p>
+The public profile shown for an organization comes from [profile/README.md](profile/README.md) in this repository.
 
-## Connect
-
-The best jumping-off point is the Tennessee Division of Forestry website:
-
-[www.tn.gov/agriculture/forests.html](https://www.tn.gov/agriculture/forests.html)
+For a personal GitHub profile README, create a separate public repository named exactly `colin-tndof` and put a root `README.md` there.

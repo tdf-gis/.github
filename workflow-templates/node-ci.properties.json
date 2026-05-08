@@ -1,0 +1,15 @@
+{
+  "name": "Node CI",
+  "description": "Install Node dependencies, then run lint and test scripts when available.",
+  "iconName": "node",
+  "categories": [
+    "JavaScript",
+    "TypeScript",
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    "package\\.json$",
+    "package-lock\\.json$",
+    ".*\\.(js|jsx|ts|tsx)$"
+  ]
+}

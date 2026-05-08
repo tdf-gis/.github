@@ -1,0 +1,60 @@
+name: Bug report
+description: Report something that is broken, incorrect, or not working as expected.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a problem. Please do not include private records, credentials, or sensitive operational details.
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      description: Which app, script, workflow, dataset, map, or documentation page is affected?
+      placeholder: "Example: data import workflow, public map, Python script"
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps someone else can follow to see the issue.
+      placeholder: |
+        1. Go to ...
+        2. Run ...
+        3. See ...
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should have happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Environment and context
+      description: Include operating system, browser, tool versions, data vintage, or other context if relevant.
+    validations:
+      required: false
+  - type: dropdown
+    id: sensitive
+    attributes:
+      label: Does this involve sensitive data or credentials?
+      options:
+        - "No"
+        - "Yes"
+        - "Not sure"
+    validations:
+      required: true

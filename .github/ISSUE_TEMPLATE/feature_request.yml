@@ -1,0 +1,46 @@
+name: Feature request
+description: Suggest an improvement, workflow, map, dataset, or automation.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement. Keep the request focused on the problem and the value it would create.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What need would this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the change, workflow, report, map, or automation you have in mind.
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Primary audience
+      description: Who would use or benefit from this?
+      placeholder: "Example: field staff, GIS analysts, program managers, public users"
+    validations:
+      required: false
+  - type: textarea
+    id: data
+    attributes:
+      label: Data considerations
+      description: List data sources, update cadence, privacy concerns, or known limitations.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Optional notes about other approaches or current workarounds.
+    validations:
+      required: false

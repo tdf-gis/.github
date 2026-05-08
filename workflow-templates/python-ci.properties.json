@@ -1,0 +1,14 @@
+{
+  "name": "Python CI",
+  "description": "Install dependencies, then run Python tests or a compile check.",
+  "iconName": "python",
+  "categories": [
+    "Python",
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    "pyproject\\.toml$",
+    "requirements\\.txt$",
+    ".*\\.py$"
+  ]
+}
