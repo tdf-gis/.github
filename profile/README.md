@@ -12,8 +12,8 @@
   <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">
     <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
   </a>
-  <a href="https://www.google.com/maps/place/Ellington+Agricultural+Center,+TN" target="_blank" rel="noopener noreferrer">
-    <img alt="Ellington Agricultural Center, Tennessee" src="https://img.shields.io/badge/Ellington Agricultural Center,%20Tennessee-168AAD?style=for-the-badge" />
+  <a href="https://maps.app.goo.gl/KB3dR1aaiX6UwVAy9" target="_blank" rel="noopener noreferrer">
+    <img alt="Ellington Agricultural Center, Tennessee" src="https://img.shields.io/badge/Ellington Agricultural Center-168AAD?style=for-the-badge" />
   </a>
 </p>
 
@@ -34,13 +34,14 @@ The focus is simple: make spatial information easier to understand, keep data wo
 
 ## Public Profile
 
-| Field | Details |
+|  |  |
 | --- | --- |
-| Contact | Colin T. Stiles |
-| Role | GIS Manager and Data Scientist |
-| Organization | Tennessee Division of Forestry |
-| Location | Ellington Agricultural Center, Nashville, Tennessee |
-| Website | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
+| **Contact** | Colin T. Stiles |
+| **Role** | GIS Manager and Data Scientist |
+| **Organization** | Tennessee Division of Forestry |
+| **Location** | Ellington Agricultural Center, Nashville, Tennessee |
+| **Website* | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
+|  |  |
 
 ## Featured Work
 
@@ -51,6 +52,12 @@ The focus is simple: make spatial information easier to understand, keep data wo
     width="720"
   />
 </p>
+
+## Recent Stories
+
+- <a href="https://www.tn.gov/agriculture/news/2026/5/5/tennessee-agricutlural-crime-unit-secures-conviction-in-monroe-county-barn-arson-case.html" target="_blank" rel="noopener noreferrer">Tennessee Agricultural Crime Unit Secures Conviction in Monroe County Barn Arson Case</a>
+
+
 
 ## Connect
 
