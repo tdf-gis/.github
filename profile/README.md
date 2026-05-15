@@ -1,16 +1,29 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Forestry%20GIS%20%2B%20Data&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Tennessee%20Division%20of%20Forestry%20%7C%20Practical%20spatial%20tools%20and%20data%20workflows&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Forestry%20GIS%20%2B%20Data&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Tennessee%20Division%20of%20Forestry%20%7C%20Nashville,%20Tennessee%20&descAlignY=58&descSize=16"
     alt="Forestry GIS and Data profile banner"
   />
 </p>
 
 <p align="center">
-  <a href="https://www.tn.gov/agriculture/forests.html">
+  <a href="https://github.com/tdf-gis" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-tdf--gis-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">
     <img alt="Tennessee Division of Forestry" src="https://img.shields.io/badge/Tennessee%20Division%20of%20Forestry-2D6A4F?style=for-the-badge" />
   </a>
-  <img alt="GIS and data science" src="https://img.shields.io/badge/GIS%20%2B%20Data%20Science-168AAD?style=for-the-badge" />
-  <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-344E41?style=for-the-badge" />
+  <a href="https://www.google.com/maps/place/Ellington+Agricultural+Center,+TN" target="_blank" rel="noopener noreferrer">
+    <img alt="Ellington Agricultural Center, Tennessee" src="https://img.shields.io/badge/Ellington Agricultural Center,%20Tennessee-168AAD?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/tdf-logo.png"
+    width="128"
+    height="128"
+    alt="Tennessee Division of Forestry"
+  />
 </p>
 
 ## Forestry GIS + Data
@@ -26,18 +39,20 @@ The focus is simple: make spatial information easier to understand, keep data wo
 | Contact | Colin T. Stiles |
 | Role | GIS Manager and Data Scientist |
 | Organization | Tennessee Division of Forestry |
-| Location | Chattanooga, Tennessee |
+| Location | Ellington Agricultural Center, Nashville, Tennessee |
 | Website | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
 
-## Areas Of Interest
+## Featured Work
 
-- Geospatial analysis and map-based decision support.
-- Forestry data systems and practical automation.
-- Reproducible data science workflows.
-- Clear outputs for field, program, and planning work.
+<p align="center">
+  <img
+    src="./assets/recent-map.jpg"
+    alt="Bledsoe State Forest"
+    width="720"
+  />
+</p>
 
-## Start Here
+## Connect
 
-Visit the Tennessee Division of Forestry website:
-
-[www.tn.gov/agriculture/forests.html](https://www.tn.gov/agriculture/forests.html)
+- <a href="https://www.linkedin.com/company/tnagriculture/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://www.tn.gov/agriculture/forests.html" target="_blank" rel="noopener noreferrer">Tennessee Division of Forestry</a>
