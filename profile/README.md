@@ -40,7 +40,7 @@ The focus is simple: make spatial information easier to understand, keep data wo
 | **Role** | GIS Manager and Data Scientist |
 | **Organization** | Tennessee Division of Forestry |
 | **Location** | Ellington Agricultural Center, Nashville, Tennessee |
-| **Website* | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
+| **Website** | [tn.gov/agriculture/forests](https://www.tn.gov/agriculture/forests.html) |
 |  |  |
 
 ## Featured Work
@@ -55,9 +55,9 @@ The focus is simple: make spatial information easier to understand, keep data wo
 
 ## Recent Stories
 
-- <a href="https://www.tn.gov/agriculture/news/2026/5/5/tennessee-agricutlural-crime-unit-secures-conviction-in-monroe-county-barn-arson-case.html" target="_blank" rel="noopener noreferrer">Tennessee Agricultural Crime Unit Secures Conviction in Monroe County Barn Arson Case</a>
+- <a href="https://www.tn.gov/agriculture/news/2026/5/5/tennessee-agricutlural-crime-unit-secures-conviction-in-monroe-county-barn-arson-case.html" target="_blank">Tennessee Agricultural Crime Unit Secures Conviction in Monroe County Barn Arson Case</a>
 
-
+- <a href="https://www.tn.gov/agriculture/news/2026/4/17/tennessee-launches--34-million-hurricane-helene-relief-program-for-farmers-and-forest-landowners.html" target="_blank">Tennessee Launches $34 Million Hurricane-Helene Relief Program for Farmers and Forest Landowners</a>
 
 ## Connect
 
