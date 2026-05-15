@@ -20,9 +20,10 @@
 <p align="center">
   <img
     src="./assets/tdf-logo.png"
-    width="128"
-    height="128"
+    width="384"
+    height="384"
     alt="Tennessee Division of Forestry"
+    href="https://www.tn.gov/agriculture/forests.html"
   />
 </p>
 
@@ -30,7 +31,7 @@
 
 This GitHub space supports GIS, data science, and practical tooling connected to forestry work in Tennessee.
 
-The focus is simple: make spatial information easier to understand, keep data workflows reproducible, and turn analysis into tools that support real-world decisions.
+The focus is simple: make spatial information easier to understand, keep data workflows reproducible, and turn analysis into tools that support agency decisions.
 
 ## Public Profile
 
